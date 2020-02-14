@@ -102,7 +102,19 @@
       </v-toolbar-title>
       
       <v-spacer />
-       <v-btn class="ma-2" color="red" dark>Decline
+       <v-btn class="ma-2" color="blue lighten-1" dark>Cultura y Tradiciones
+        <v-icon dark right>mdi-cancel</v-icon>
+      </v-btn>
+      <v-btn class="ma-2" color="blue lighten-1" dark>Transparencia
+        <v-icon dark right>mdi-cancel</v-icon>
+      </v-btn>
+      <v-btn class="ma-2" color="blue lighten-1" dark>Tramites y Servicios
+        <v-icon dark right>mdi-cancel</v-icon>
+      </v-btn>
+      <v-btn class="ma-2" color="blue lighten-1" dark>Directorio
+        <v-icon dark right>mdi-cancel</v-icon>
+      </v-btn>
+      <v-btn class="ma-2" color="blue lighten-1" dark>Galería
         <v-icon dark right>mdi-cancel</v-icon>
       </v-btn>
       

@@ -2160,6 +2160,18 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   props: {
     source: String
@@ -40194,9 +40206,72 @@ var render = function() {
           _vm._v(" "),
           _c(
             "v-btn",
-            { staticClass: "ma-2", attrs: { color: "red", dark: "" } },
+            {
+              staticClass: "ma-2",
+              attrs: { color: "blue lighten-1", dark: "" }
+            },
             [
-              _vm._v("Decline\n      "),
+              _vm._v("Cultura y Tradiciones\n      "),
+              _c("v-icon", { attrs: { dark: "", right: "" } }, [
+                _vm._v("mdi-cancel")
+              ])
+            ],
+            1
+          ),
+          _vm._v(" "),
+          _c(
+            "v-btn",
+            {
+              staticClass: "ma-2",
+              attrs: { color: "blue lighten-1", dark: "" }
+            },
+            [
+              _vm._v("Transparencia\n      "),
+              _c("v-icon", { attrs: { dark: "", right: "" } }, [
+                _vm._v("mdi-cancel")
+              ])
+            ],
+            1
+          ),
+          _vm._v(" "),
+          _c(
+            "v-btn",
+            {
+              staticClass: "ma-2",
+              attrs: { color: "blue lighten-1", dark: "" }
+            },
+            [
+              _vm._v("Tramites y Servicios\n      "),
+              _c("v-icon", { attrs: { dark: "", right: "" } }, [
+                _vm._v("mdi-cancel")
+              ])
+            ],
+            1
+          ),
+          _vm._v(" "),
+          _c(
+            "v-btn",
+            {
+              staticClass: "ma-2",
+              attrs: { color: "blue lighten-1", dark: "" }
+            },
+            [
+              _vm._v("Directorio\n      "),
+              _c("v-icon", { attrs: { dark: "", right: "" } }, [
+                _vm._v("mdi-cancel")
+              ])
+            ],
+            1
+          ),
+          _vm._v(" "),
+          _c(
+            "v-btn",
+            {
+              staticClass: "ma-2",
+              attrs: { color: "blue lighten-1", dark: "" }
+            },
+            [
+              _vm._v("Galería\n      "),
               _c("v-icon", { attrs: { dark: "", right: "" } }, [
                 _vm._v("mdi-cancel")
               ])
